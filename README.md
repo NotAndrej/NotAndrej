@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NotAndrej
-- 👀 I’m interested in Linux and Android
+- 👀 I’m interested in Linux, Windows 2000 and Android
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
 
